@@ -7,5 +7,10 @@ At first, Grade 2 level of Japan Statistical Society Certificate
 ・練習問題　confidence_interval201711q13.py  
 　統計検定2級　2017年11月の問題（過去問本にも掲載されています）
 
-２．
+２．statistical_tesing.py  
+　　検定
 
+・練習問題  
+　統計検定2級　20　年　月の問題（過去問本にも掲載されています）
+
+３．
