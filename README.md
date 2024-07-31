@@ -1,7 +1,7 @@
 # statistics
 At first, Grade 2 level of Japan Statistical Society Certificate
 
-１．confidence_interval.py
+１．confidence_interval.py  
    信頼区間を求める。
 
 ・練習問題　confidence_interval201711q13.py  
